@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="stella_camera" type="stella_camera.py" name="stella_camera_node"  output="screen">
+  </node>
+</launch>
+

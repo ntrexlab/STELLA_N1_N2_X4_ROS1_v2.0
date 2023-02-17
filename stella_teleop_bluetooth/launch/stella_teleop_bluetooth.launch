@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="stella_teleop_bluetooth" type="stella_teleop_bluetooth.py" name="stella_teleop_bluetooth_node"  output="screen">
+  </node>
+</launch>
+
